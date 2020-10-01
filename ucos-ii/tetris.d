@@ -1,0 +1,17 @@
+.\tetris.o: tetris.c
+.\tetris.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\tetris.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\tetris.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\tetris.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\tetris.o: C:\Keil\ARM\ARMCC\bin\..\include\time.h
+.\tetris.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\tetris.o: C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+.\tetris.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\tetris.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\tetris.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\tetris.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\tetris.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\tetris.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\tetris.o: GLCD.h
+.\tetris.o: JOY.h
+.\tetris.o: I2C.h
